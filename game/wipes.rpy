@@ -1,0 +1,11 @@
+﻿init:
+    $ w5 = ImageDissolve("images/transition/5.jpg", 0.5, 4)
+    $ w4 = ImageDissolve("images/transition/4.jpg", 0.5, 4)
+    $ w9 = ImageDissolve("images/transition/9.jpg", 1, 4)
+    $ w009 = ImageDissolve("images/transition/009.jpg", 0.5, 4)
+    $ w12 = ImageDissolve("images/transition/12.jpg", 0.5, 4)
+    $ w20 = ImageDissolve("images/transition/20.jpg", 0.5, 4)
+    $ w33 = ImageDissolve("images/transition/33.png", 0.5, 4)
+    $ bites = ImageDissolve("images/transition/bites.jpg", 0.5, 4)
+    $ eye_close = ImageDissolve("images/transition/eye.png", 0.5, 4, reverse=True)
+    $ eye_open = ImageDissolve("images/transition/eye.png", 0.5, 4)
